@@ -1,2 +1,2 @@
 # ServiceNow
-A repository to all ServiceNow related files
+A public repository to all ServiceNow related files
